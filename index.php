@@ -1,6 +1,6 @@
   
 <?php
 
-include_once("index.html");
+include_once("../rock-paper-scissor/src/index.html");
 
 ?>
